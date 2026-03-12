@@ -4,5 +4,6 @@
 <li>Descargar Git</li>
 <li>Instalar python</li>
 <li>Copiar el codigo</li>
+  <li>Guardar los cambios</li>
 </ol>
 <p>Cualquier duda escribe a <a href="mailto: williannypatrada@gmail.com">willianny</a></p>
